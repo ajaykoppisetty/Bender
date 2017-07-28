@@ -7,7 +7,7 @@ target 'Bender' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  pod 'MetalPerformanceShadersProxy', :path => "/Users/dernst/Opensource/MetalPerformanceShadersProxy"
+  pod 'MetalPerformanceShadersProxy', :path => "/Users/mathiasclaasen/Developer/MetalPerformanceShadersProxy"
   # Pods for Bender
 
 end
@@ -17,7 +17,7 @@ target 'Example' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  pod 'MetalPerformanceShadersProxy', :path => "/Users/dernst/Opensource/MetalPerformanceShadersProxy"
+  pod 'MetalPerformanceShadersProxy', :path => "/Users/mathiasclaasen/Developer/MetalPerformanceShadersProxy"
   # Pods for Bender
 
 end
